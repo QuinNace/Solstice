@@ -1,8 +1,10 @@
 Solstice
 ================
 import java.util.*;
-public class Part1 {
-//GOAL: finish by Friday
+
+public class Part1 
+{
+
   public static void main(String[] args) {
 
 	System.out.println("You wake up in a room. You don\"t know where you are.");
